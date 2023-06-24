@@ -4,6 +4,7 @@
 
 CTFuzz is a coverage-guided fuzzing tools with reinforcement learning. The workflow and architect can see below.
 
+![ctfuzz](https://github.com/Cobra-de1/CTFuzz/assets/57558487/fd278a78-d2f1-4009-b07b-5e63ff895254)
 
 CTFuzz use coverage instrumentation method provide by [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) version 4.05c
 
