@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+checkpoint
+*.index
+*.data*
+*.png
+*.pth
